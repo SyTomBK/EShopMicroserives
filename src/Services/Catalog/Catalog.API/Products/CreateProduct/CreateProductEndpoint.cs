@@ -1,5 +1,4 @@
-﻿using BuildingBlocks.CQRS;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace Catalog.API.Products.CreateProduct;
 
